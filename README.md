@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full Stack Developer | Problem Solver | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Web+Developer;DSA+Lover;Passionate+about+Open+Source;Tech+Enthusiast&center=true&width=500&height=30">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Web+Developer;DSA-Enthusiast;Passionate+about+Open+Source;Tech+Enthusiast&center=true&width=500&height=30">
 </p>
 
 ---
