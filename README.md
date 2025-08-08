@@ -10,8 +10,8 @@
 ### 🚀 About Me
 
 - 🔭 Currently working on: Building full-stack projects using React, Node.js & MongoDB  
-- 🌱 Learning: **Striver SDE Sheet 75**, Core CS Subjects, System Design  
-- 💼 Preparing for: Tech interviews and startup opportunities  
+- 🌱 Learning: Core CS Subjects, System Design  
+- 💼 Preparing for: tech opportunities  
 - 🧠 Exploring: Web3, DevOps, and AI integrations  
 
 ---
