@@ -2,7 +2,7 @@
 <h3 align="center">AI & ML Enthusiast | Problem Solver | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Developer;AI+Explorer;Passionate+about+Open+Source;DSA+Enthusiast&center=true&width=500&height=30">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning;AI+Explorer;Passionate+about+Open+Source;DSA+Enthusiast&center=true&width=500&height=30">
 </p>
 
 ---
