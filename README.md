@@ -7,17 +7,7 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/nishchalpr2409">
-    <img src="https://img.shields.io/github/followers/nishchalpr2409?label=Follow&style=social" alt="GitHub followers">
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:nishchalpr2409@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email">
-  </a>
-</p>
+
 
 ---
 
