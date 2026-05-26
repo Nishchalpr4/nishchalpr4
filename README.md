@@ -37,5 +37,5 @@ AI Engineer • Graph RAG • Agentic AI • ML Systems
 ## ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,typescript,react,nodejs,express,tensorflow,pytorch,mongodb,mysql,postgres,docker,git,linux,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,react,nodejs,express,tensorflow,pytorch,mongodb,mysql,postgres,docker,git,linux,opencv" />
 </p>
